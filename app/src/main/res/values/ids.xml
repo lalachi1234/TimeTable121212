@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <item name="numbercontact" type="id" />
+    <item name="events" type="id" />
+    <item name="nav_events" type="id" />
+    <item name="nav_event" type="id" />
+    <item name="event" type="id" />
+    <item name="aboutus" type="id" />
+</resources>
